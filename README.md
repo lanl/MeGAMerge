@@ -47,4 +47,4 @@ Options:
 COPYRIGHT 
 -------------
 
-Los Alamos National Security, LLC (LANS) owns the copyright to FaQCs, which it identifies internally as CODE-2012-145.  The license is GPLv3.  See [LICENSE](https://github.com/losalamos/FaQCs/blob/master/LICENSE) for the full text.
+Los Alamos National Security, LLC (LANS) owns the copyright to MeGAMerge, which it identifies internally as CODE-2012-145.  The license is GPLv3.  See [LICENSE](https://github.com/losalamos/MeGAMerge/blob/master/LICENSE) for the full text.
