@@ -41,3 +41,10 @@ Options:
 
 -single_genome=1       Runs assuming single genome, reducing auto-options
                        (one newbler run, exclude fewer contigs, overrides -minLen and minIncludeLen)
+
+
+-------------
+COPYRIGHT 
+-------------
+
+Los Alamos National Security, LLC (LANS) owns the copyright to FaQCs, which it identifies internally as CODE-2012-145.  The license is GPLv3.  See [LICENSE](https://github.com/losalamos/FaQCs/blob/master/LICENSE) for the full text.
