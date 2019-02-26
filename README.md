@@ -60,5 +60,5 @@ the public, perform publicly and display publicly, and to permit others to do so
 
 This is open source software; you can redistribute it and/or modify it under the terms of the GPLv3 License. If software 
 is modified to produce derivative works, such modified software should be clearly marked, so as not to confuse it with 
-the version available from LANL. Full text of the [GPLv3 License] (https://github.com/losalamos/MeGAMerge/blob/master/LICENSE) can be found in the License file in the main development 
+the version available from LANL. Full text of the [GPLv3 License](https://github.com/losalamos/MeGAMerge/blob/master/LICENSE) can be found in the License file in the main development 
 branch of the repository.
